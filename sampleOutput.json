@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla (TSLA US) Stock Latest News and Analysis for Investors",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTEyLTE3L3Rlc2xhLXN0b2NrLXB1bW1wbGVkLWJ5LW11c2stcy10d2l0dGVyLWFjdGlvbnMtYXMtZWxlY3RyaWMtY2FyLWRlbWFuZC1zb3Vyc9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-17T15:10:32+00:00",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sam Tabahriti",
+            "title": "Elon Musk repsonded 'I don't have a home' when asked about FBI raids",
+            "description": "The Tesla CEO sold all of the seven homes he owned for a total of $128 million over a year ago. He's since been staying in a small house in Texas.",
+            "url": "http://www.businessinsider.com/elon-musk-said-he-does-not-have-home-twitter-fbi-2022-12",
+            "urlToImage": "https://i.insider.com/639d87cab5600000185b312a?width=1200&format=jpeg",
+            "publishedAt": "2022-12-17T10:43:07Z",
+            "content": "Elon Musk responded to a Twitter user asking when the Federal Bureau of Investigation would raid his home on Saturday claiming he didn't have one.\r\n\"I don't have a home,\" the Tesla CEO tweeted on Sat… [+1186 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider-uk",
+                "name": "Business Insider (UK)"
+            },
+            "author": "Sam Tabahriti",
+            "title": "Elon Musk responded 'I don't have a home' when asked about FBI raids",
+            "description": "The Tesla CEO sold all of the seven homes he owned for a total of $128 million over a year ago. He's since been staying in a small house in Texas.",
+            "url": "http://uk.businessinsider.com/elon-musk-said-he-does-not-have-home-twitter-fbi-2022-12",
+            "urlToImage": "https://i.insider.com/639d87cab5600000185b312a?width=1200&format=jpeg",
+            "publishedAt": "2022-12-17T10:43:07Z",
+            "content": "Elon Musk responded to a Twitter user asking when the Federal Bureau of Investigation would raid his home on Saturday claiming he didn't have one.\r\n\"I don't have a home,\" the Tesla CEO tweeted on Sat… [+1186 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Truck Driver Reviews of Tesla Semi | NextBigFuture.com",
+            "description": "I include youtube videos with various feedback and reviews of the Tesla Semi from Truck drivers (direct and indirect). The first review is that Tesla has over",
+            "url": "https://www.nextbigfuture.com/2022/12/truck-driver-reviews-of-tesla-semi.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2019/02/Tesla_Semi_5.jpg",
+            "publishedAt": "2022-12-16T00:34:04Z",
+            "content": "I include youtube videos with various feedback and reviews of the Tesla Semi from Truck drivers (direct and indirect). The first review is that Tesla has over 500 orders for Semi Trucks. The US has 4… [+2504 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Tesla Master Plan 3 is Global Domination and Tesla Semi is the Key | NextBigFuture.com",
+            "description": "There has been great concern for Tesla shareholders that there are problems with Tesla's future growth. There has also been a large drop in share price from",
+            "url": "https://www.nextbigfuture.com/2022/12/tesla-master-plan-3-is-global-domination-and-tesla-semi-is-the-key.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2022/12/Screen-Shot-2022-12-14-at-4.44.12-PM.jpg",
+            "publishedAt": "2022-12-15T17:14:15Z",
+            "content": "There has been great concern for Tesla shareholders that there are problems with Teslas future growth. There has also been a large drop in share price from the peak share value early this year. The w… [+6584 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Battery Expert Agrees With My Tesla Semi, Megapack Analysis | NextBigFuture.com",
+            "description": "I had a talk on a Tesla Twitter Space with a few hundred people including battery expert Jordan of the Limiting Factor. Jordan agreed my conclusion that the",
+            "url": "https://www.nextbigfuture.com/2022/12/battery-expert-agrees-with-my-tesla-semi-megapack-analysis.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2022/12/Screen-Shot-2022-12-13-at-11.33.28-PM.jpg",
+            "publishedAt": "2022-12-14T15:53:22Z",
+            "content": "I had a talk on a Tesla Twitter Space with a few hundred people including battery expert Jordan of the Limiting Factor. Jordan agreed my conclusion that the Tesla Semi is a stealth way to sell many m… [+4047 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Busting Thunderfoot Attack on Tesla Semi | NextBigFuture.com",
+            "description": "Thunderfoot is a popular youtuber despite putting out wrong information. He likes to try to \"bust\" Elon Musk for Tesla, Boring Company and SpaceX. This is",
+            "url": "https://www.nextbigfuture.com/2022/12/busting-thunderfoot-attack-on-tesla-semi.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2018/05/a3a7766d03e876fcadcd4d290c0946ea.jpg",
+            "publishedAt": "2022-12-13T05:45:24Z",
+            "content": "Thunderfoot is a popular youtuber despite putting out wrong information. He likes to try to bust Elon Musk for Tesla, Boring Company and SpaceX. This is obviously because Elon Musk is the most succes… [+3494 chars]"
+        }
+    ]
+}
